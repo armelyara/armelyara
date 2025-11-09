@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armelyara
 - 👀 I’m interested by Machine Learning and Deep Learning
-- 🌱 I’m currently Bioinformatics Student
-- 💞️ My goal is to address some problems
+- 📚I’m currently Bioinformatics Student
+- 🤔 My goal is to address some problems
 - 📫 How to reach me Twitter:@ArmelYara Mail: armelyara@thedayinfo.com
 
 <!---
