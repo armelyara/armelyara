@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armelyara
-- 👀 I’m interested by Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Data Science
-- 💞️ I’m looking to collaborate on Machine Learning Open Source Projects 
+- 👀 I’m interested by Machine Learning and Deep Learning
+- 🌱 I’m currently Bioinformatics Student
+- 💞️ I’m looking to solve some problems with computer science
 - 📫 How to reach me Twitter:@ArmelYara Mail: armelyara@thedayinfo.com
 
 <!---
